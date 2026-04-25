@@ -1,7 +1,7 @@
 # =============================================================================
 # 03_snp_overlap.R
 # Project: EPIC v2 Methylation Array — Custom Annotation Package Builder
-# Author:  [Your Name]
+# Author:  Hamed Abdollahi
 # Description: Compute SNP overlaps with probe positions using GRanges.
 #              For each pre-computed dbSNP GRanges object (*Single.rda), the
 #              probe map is intersected to identify probes whose target CpG or

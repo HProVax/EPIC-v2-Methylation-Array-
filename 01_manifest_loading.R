@@ -1,7 +1,7 @@
 # =============================================================================
 # 01_manifest_loading.R
 # Project: EPIC v2 Methylation Array — Custom Annotation Package Builder
-# Author:  [Your Name]
+# Author:  Hamed Abdollahi
 # Description: Parse the Illumina-supplied EPIC v2 manifest CSV into the
 #              minfi manifest structure, then validate probe addresses against
 #              a representative IDAT file from the batch.

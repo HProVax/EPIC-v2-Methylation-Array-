@@ -168,7 +168,7 @@ install.packages("dplyr")
 
 If you use this annotation in your research, please cite:
 
-> [Authors]. (*Year*). *Title*. *Journal*. DOI: [link]
+This Repo
 
 ---
 

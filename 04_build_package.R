@@ -1,7 +1,7 @@
 # =============================================================================
 # 04_build_package.R
 # Project: EPIC v2 Methylation Array — Custom Annotation Package Builder
-# Author:  [Your Name]
+# Author:  Hamed Abdollahi
 # Description: Assemble all annotation objects into a single
 #              IlluminaMethylationAnnotation S4 object and save everything
 #              to disk in Bioconductor-standard .rda format.

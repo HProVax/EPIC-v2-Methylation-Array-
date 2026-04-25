@@ -1,7 +1,7 @@
 # =============================================================================
 # 02_annotation_objects.R
 # Project: EPIC v2 Methylation Array — Custom Annotation Package Builder
-# Author:  [Your Name]
+# Author:  Hamed Abdollahi
 # Description: Harmonise the raw manifest columns to minfi's expected naming
 #              conventions, then construct the five standard annotation objects
 #              that together form the Bioconductor annotation package:

@@ -174,10 +174,9 @@ If you use this annotation in your research, please cite:
 
 ## Author
 
-**[Your Name]**
-Postdoctoral Researcher | [Institution]
-[your.email@institution.edu] | [ORCID]
-
+**Hamed Abdollahi**
+University of South Carolina
+HA25@mailbox.sc.edu
 ---
 
 ## License

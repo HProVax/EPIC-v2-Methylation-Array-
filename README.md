@@ -174,8 +174,8 @@ This Repo
 
 ## Author
 
-**Hamed Abdollahi**
-University of South Carolina
+**Hamed Abdollahi**<br>
+University of South Carolina<br>
 HA25@mailbox.sc.edu
 ---
 

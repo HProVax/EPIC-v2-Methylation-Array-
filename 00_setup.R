@@ -1,7 +1,7 @@
 # =============================================================================
 # 00_setup.R
 # Project: EPIC v2 Methylation Array — Custom Annotation Package Builder
-# Author:  [Your Name]
+# Author:  Hamed Abdollahi
 # Description: Load required Bioconductor and CRAN packages, and define all
 #              file paths used across the annotation pipeline. Edit the PATHS
 #              block below to match your local directory structure before running.
